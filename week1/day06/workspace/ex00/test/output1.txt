@@ -1,0 +1,15 @@
+Hey! Here's a string to begin with :)
+This should be on a new line...
+
+Swapped int successfully :)
+
+Let's get strlen of this string.
+Result was 33! Correct!
+
+Is "Hello" same as "Hello"?
+Got correct result :D
+
+Is "Hello" same as "World"?
+Got correct result :D
+
+Functions worked right! Congrats :D
